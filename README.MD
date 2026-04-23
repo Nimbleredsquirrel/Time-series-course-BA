@@ -1,4 +1,4 @@
-# Time Series Course Homework
+# Time Series Course
 
 Homework solutions for a time series forecasting course. The assignments cover the full progression from baseline methods to production-grade ML models.
 
